@@ -18,13 +18,6 @@ Minha transição para a tecnologia veio como um aprofundamento: estudei algorit
 
 📍 Atualmente estudando automação de testes e aprofundando minha base com Git, GitHub, testes manuais e versionamento.
 
-   </td>
-   <td valign="top" width="30%">
-     <img src="https://media.tenor.com/F_R8Nk3YpAYAAAAC/sml-t-rex-angry-mad-roar.gif" alt="t-rex gif" width="100%" />
-   </td>
-  </tr>
-</table>
-
 ---
 
 🧰 **Tecnologias e Ferramentas**
