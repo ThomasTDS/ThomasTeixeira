@@ -1,45 +1,61 @@
-<h1 align="center">Olá! Eu sou o Thoma$ 🦖</h1>
+<div align="center">
 
-<p align="center">
-  <i>"Simplicidade é o mais alto nível da elegância."</i>
-</p>
+# 🦖 Olá! Eu sou o Thoma$  
 
----
+**"Simplicidade é o mais alto nível da elegância."**  
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
-      
-### 🎯 Sobre mim
+</div>
+
+## 🔍 Sobre mim
 
 Desde criança, tecnologia faz parte do meu cotidiano — comecei explorando o mundo digital através de HacksROMs, MODs e fan games. Mais tarde, percebi que meu ponto fraco era a comunicação, então fui direto ao ponto: estudei Relações Públicas para entender como a comunicação conecta setores, pessoas e estratégias. Quis aprender como ideias se transformam em ação — e como os dados mostram se estamos no caminho certo.
 
 Minha transição para a tecnologia veio como um aprofundamento: estudei algoritmos, arquitetura de sistemas e boas práticas com foco em qualidade, clareza e escalabilidade. Hoje, estudo **Quality Assurance**, aplicando esse olhar híbrido — técnico e humano — para garantir que os sistemas funcionem bem na prática, e não apenas na teoria.
 
-📍 Atualmente estudando automação de testes e aprofundando minha base com Git, GitHub, testes manuais e versionamento.
+- 🌱 Atualmente estudando automação de testes e aprofundando minha base com Git, GitHub e testes manuais
 
 ---
 
-🧰 **Tecnologias e Ferramentas**
+## 🛠️ Tecnologias que domino
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-🚀 Em breve: C#, .NET, Test Automation, SQL
-
----
-
-🎮 **Curiosidades**
-
-- Apaixonado por videogames desde pequeno — considero-os minha forma de arte favorita.
-- Fã de jogos retrô, adoro escavar e testar títulos antigos como forma de aprendizado e inspiração.
-- Aficionado por paleontologia desde a infância: adoro estudar sobre o passado para entender os ciclos da vida.
-- Gosto de pensar em sistemas como organismos — complexos, interdependentes e adaptáveis.
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</div>
 
 ---
 
-📫 **Vamos conversar?**
+## � Em Evolução
 
-Você pode me encontrar aqui no GitHub ou no [LinkedIn](https://www.linkedin.com/in/thomasteixeira/). Sempre aberto para trocar ideias sobre QA, tecnologia, retro games e sistemas complexos!
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+
+---
+
+## ❓ Curiosidades
+
+- 🎮 Apaixonado por videogames — considero-os minha forma de arte favorita
+- 👾 Descobrir e experienciar títulos antigos e por muitas vezes, esquecidos, é meu hobbie favorito
+- 🦖 Aficionado por paleontologia: adoro estudar sobre o passado
+- 🐶 Dog-person
+
+---
+
+## � Onde você me encontra:
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://www.linkedin.com/in/thomasteixeira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/_thomas_teixeira_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:thomasteixeirads@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
