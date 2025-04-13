@@ -12,8 +12,6 @@ Desde criança, tecnologia faz parte do meu cotidiano — comecei explorando o m
 
 Minha transição para a tecnologia veio como um aprofundamento: estudei algoritmos, arquitetura de sistemas e boas práticas com foco em qualidade, clareza e escalabilidade. Hoje, estudo **Quality Assurance**, aplicando esse olhar híbrido — técnico e humano — para garantir que os sistemas funcionem bem na prática, e não apenas na teoria.
 
-- 🌱 Atualmente estudando automação de testes e aprofundando minha base com Git, GitHub e testes manuais
-
 ---
 
 ## 🛠️ Tecnologias que domino
@@ -29,7 +27,7 @@ Minha transição para a tecnologia veio como um aprofundamento: estudei algorit
 
 ---
 
-## � Em Evolução
+## 🌱 Em Evolução
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -46,7 +44,7 @@ Minha transição para a tecnologia veio como um aprofundamento: estudei algorit
 
 ---
 
-## � Onde você me encontra:
+## 🧭 Onde você me encontra:
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/thomasteixeira/">
