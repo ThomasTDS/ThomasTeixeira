@@ -14,7 +14,7 @@ Minha transição para a tecnologia veio como um aprofundamento: estudei algorit
 
 ---
 
-## 🛠️ Tecnologias que domino
+## 🛠️ Tecnologias
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
