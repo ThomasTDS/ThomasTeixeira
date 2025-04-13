@@ -14,7 +14,7 @@
 
 Desde criança, tecnologia faz parte do meu cotidiano — comecei explorando o mundo digital através de HacksROMs, MODs e fan games. Mais tarde, percebi que meu ponto fraco era a comunicação, então fui direto ao ponto: estudei Relações Públicas para entender como a comunicação conecta setores, pessoas e estratégias. Quis aprender como ideias se transformam em ação — e como os dados mostram se estamos no caminho certo.
 
-Minha transição para a tecnologia veio como um aprofundamento: estudei algoritmos, arquitetura de sistemas e boas práticas com foco em qualidade, clareza e escalabilidade. Hoje, me especializo em **Quality Assurance**, aplicando esse olhar híbrido — técnico e humano — para garantir que os sistemas funcionem bem na prática, e não apenas na teoria.
+Minha transição para a tecnologia veio como um aprofundamento: estudei algoritmos, arquitetura de sistemas e boas práticas com foco em qualidade, clareza e escalabilidade. Hoje, estudo **Quality Assurance**, aplicando esse olhar híbrido — técnico e humano — para garantir que os sistemas funcionem bem na prática, e não apenas na teoria.
 
 📍 Atualmente estudando automação de testes e aprofundando minha base com Git, GitHub, testes manuais e versionamento.
 
