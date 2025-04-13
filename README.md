@@ -44,7 +44,7 @@ Minha transição para a tecnologia veio como um aprofundamento: estudei algorit
 
 ---
 
-## 🧭 Onde você me encontra:
+## 🧭 Onde você me encontra
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/thomasteixeira/">
