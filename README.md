@@ -1,40 +1,43 @@
-👋 **Sobre mim**
+<h1 align="center">Olá! Eu sou o Thoma$ 👋</h1>
 
-Olá! Meu nome é Thomas Teixeira. Estou em transição para a área de engenharia de software, com foco atual em qualidade de software (QA). Minha trajetória com tecnologia começou muito antes da minha formação acadêmica — ainda adolescente, eu criava HacksROMs, MODs e FanGames. Essas experiências me ensinaram na prática sobre lógica, estrutura de sistemas e resolução de problemas, mesmo sem ter consciência de que já estava programando de forma rudimentar.
+<p align="center">
+  <i>"Simplicidade é o mais alto nível da elegância."</i>
+</p>
 
-Mais tarde, escolhi cursar Relações Públicas por um motivo bastante estratégico: eu queria aprender a me comunicar melhor e entender como a comunicação conecta pessoas, áreas e estratégias dentro de uma organização. Essa base me proporcionou uma visão ampla sobre como projetos ganham vida, e como a clareza na comunicação pode ser o elo entre o técnico e o humano.
+---
 
-Após essa etapa, mergulhei em tecnologia com foco em fundamentos: algoritmos, clean code e design de sistemas. Iniciei com JavaScript e Python, estudando não apenas como escrever código, mas como projetar soluções escaláveis e sustentáveis. Hoje, atuo com testes de software, buscando ir além da funcionalidade: meu foco está em compreender como os sistemas se comportam sob uso real, e como falhas podem ser prevenidas de maneira estratégica.
+🎯 **Sobre mim**
 
-Acredito que a simplicidade é um sinal de maturidade técnica. Por isso, sempre que crio ou analiso uma solução, meu objetivo é tornar o complexo mais compreensível, sem perder sua essência.
+Desde criança, tecnologia faz parte do meu cotidiano — comecei explorando o mundo digital através de HacksROMs, MODs e fan games. Mais tarde, percebi que meu ponto fraco era a comunicação, então fui direto ao ponto: estudei Relações Públicas para entender como a comunicação conecta setores, pessoas e estratégias. Quis aprender como ideias se transformam em ação — e como os dados mostram se estamos no caminho certo.
 
-______________________________________________________________________________________________________________________________________________________________
+Minha transição para a tecnologia veio como um aprofundamento: estudei algoritmos, arquitetura de sistemas e boas práticas com foco em qualidade, clareza e escalabilidade. Hoje, me especializo em **Quality Assurance**, aplicando esse olhar híbrido — técnico e humano — para garantir que os sistemas funcionem bem na prática, e não apenas na teoria.
 
-⚙️ **Perfil técnico**
+📍 Atualmente estudando automação de testes e aprofundando minha base com Git, GitHub, testes manuais e versionamento.
 
+---
 
-🏡 **Localização:** Santa Maria – RS, Brasil
+🧰 **Tecnologias e Ferramentas**
 
-👷🏻‍♂ **Área de atuação:** Quality Assurance (QA)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-🖥 **Tecnologias:** Python, Git, GitHub
+🚀 Em breve: C#, .NET, Test Automation, SQL
 
-📘 **Estudos atuais:** Testes manuais, automação, versionamento, lógica de programação
+---
 
-🎓 **Formação:** Bacharelado em Relações Públicas (em fase de conclusão)
+🎮 **Curiosidades**
 
-👾 **Objetivo técnico:** Consolidar conhecimento em backend com C# e .NET no futuro
+- Apaixonado por videogames desde pequeno — considero-os minha forma de arte favorita.
+- Fã de jogos retrô, adoro escavar e testar títulos antigos como forma de aprendizado e inspiração.
+- Aficionado por paleontologia desde a infância: adoro estudar sobre o passado para entender os ciclos da vida.
+- Gosto de pensar em sistemas como organismos — complexos, interdependentes e adaptáveis.
 
-______________________________________________________________________________________________________________________________________________________________
+---
 
-🎮 **Interesses pessoais**
+📫 **Vamos conversar?**
 
-Sou apaixonado por videogames, especialmente os clássicos. Jogar, modificar e analisar esses jogos foi minha forma de interagir com a tecnologia antes mesmo de saber programar de verdade. Para mim, videogames são uma forma de arte interativa, carregada de história, criatividade e engenhosidade técnica.
+Você pode me encontrar aqui no GitHub ou no [LinkedIn](https://www.linkedin.com/in/thomasteixeira/). Sempre aberto para trocar ideias sobre QA, tecnologia, retro games e sistemas complexos!
 
-Outro interesse que me acompanha desde criança é a paleontologia. Sempre fui fascinado por estruturas antigas, por padrões escondidos e pela ideia de investigar o passado para compreender o presente — algo que, curiosamente, também se aplica à forma como penso sistemas e bugs hoje.
-
-______________________________________________________________________________________________________________________________________________________________
-
-🧠 **Visão de trabalho**
-
-Acredito que a tecnologia só cria valor real quando está alinhada com a forma como as pessoas pensam, agem e se comunicam. Essa compreensão é o que guia minha forma de trabalhar: sempre atento à experiência do usuário, à clareza nas entregas e à solidez técnica das soluções.
