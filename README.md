@@ -2,24 +2,29 @@
 
 # 🦖 Olá! Eu sou o Thoma$  
 
-**"Simplicidade é o mais alto nível da elegância."**  
+**QA em formação | Testes manuais e automação**  
+
+*"Simplicidade é o mais alto nível da elegância."*  
 
 </div>
 
-## 🔍 Sobre mim
+---
 
-Desde criança, tecnologia faz parte do meu cotidiano — comecei explorando o mundo digital através de HacksROMs, MODs e fan games. Mais tarde, percebi que meu ponto fraco era a comunicação, então fui direto ao ponto: estudei Relações Públicas para entender como a comunicação conecta setores, pessoas e estratégias. Quis aprender como ideias se transformam em ação — e como os dados mostram se estamos no caminho certo.
+## 🔍 Sobre mim  
 
-Minha transição para a tecnologia veio como um aprofundamento: estudei algoritmos, arquitetura de sistemas e boas práticas com foco em qualidade, clareza e escalabilidade. Hoje, estudo **Quality Assurance**, aplicando esse olhar híbrido — técnico e humano — para garantir que os sistemas funcionem bem na prática, e não apenas na teoria.
+Sempre gostei de explorar tecnologia — comecei com fan games, MODs e hacksROMs. Mais tarde, percebi que meu ponto fraco era a **comunicação**, então mergulhei em Relações Públicas para entender como conectar pessoas, processos e estratégias.  
+
+Hoje aplico esse olhar no **Quality Assurance**: garantir que software funcione na prática, com **testes bem estruturados, documentação clara e automação crescente**.  
+Minha meta é unir **atenção aos detalhes** com **entregas consistentes**.  
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
@@ -28,25 +33,26 @@ Minha transição para a tecnologia veio como um aprofundamento: estudei algorit
 
 ---
 
-## 🌱 Em Evolução
+## 🌱 Em Evolução  
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</div>  
 
 ---
 
-## ❓ Curiosidades
+## ❓ Curiosidades  
 
-- 🎮 Apaixonado por videogames — considero-os minha forma de arte favorita
-- 👾 Descobrir e experienciar títulos antigos e por muitas vezes, esquecidos, é meu hobbie favorito
-- 🦖 Aficionado por paleontologia: adoro estudar sobre o passado
-- 🐶 Dog-person
+- 🎮 Apaixonado por videogames — considero-os minha forma de arte favorita  
+- 👾 Curto explorar títulos antigos e esquecidos  
+- 🦖 Fascinado por paleontologia  
+- 🐶 Dog-person convicto  
 
 ---
 
-## 🧭 Onde você me encontra
+## 🧭 Onde você me encontra  
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <a href="https://www.linkedin.com/in/thomasteixeira/">
